@@ -35,5 +35,7 @@
     <a href="array.php">Массивы</a>
     <br>
     <a href="array2.php">Ассоциативные массивы</a>
+    <br>
+    <a href="function.php">Функции</a>
 </body>
 </html>
