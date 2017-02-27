@@ -37,5 +37,21 @@
     <a href="array2.php">Ассоциативные массивы</a>
     <br>
     <a href="function.php">Функции</a>
+    <br>
+    <a href="php_function.php">Функции PHP</a>
+    <br>
+    <a href="list.php">Функции list</a>
+    <br>
+    <a href="date.php">Функции date</a>
+     <br>
+    <a href="isset.php">Функции isset</a>
+      <br>
+    <a href="get.php">Метод GET</a>
+     <br>
+    <a href="post.php">Метод POST</a>
+    <br>
+    <a href="server.php"> SERVER</a>
+     <br>
+    <a href="include.php">Include</a>
 </body>
 </html>
