@@ -53,5 +53,15 @@
     <a href="server.php"> SERVER</a>
      <br>
     <a href="include.php">Include</a>
+    <br>
+    <a href="msql.php">Соединение с БД</a>
+     <br>
+    <a href="mysql_insert.php">Insert</a>
+     <br>
+    <a href="mysql_form.php">FORM MSQL</a>
+     <br>
+    <a href="mysql_update.php">UPDATE</a>
+    <br>
+    <a href="msql_delete.php">DELETE</a>
 </body>
 </html>
